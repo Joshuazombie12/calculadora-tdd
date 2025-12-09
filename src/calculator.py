@@ -40,4 +40,3 @@ class Calculator:
             if abs(term) < 1e-6:
                 break
         return float(total)
-
