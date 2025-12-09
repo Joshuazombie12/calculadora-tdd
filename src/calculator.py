@@ -2,7 +2,7 @@
 from __future__ import annotations
 
 class Calculator:
-    def add(self, a: float, b: float) -> float:
+    def add(self, a, b):
         return a + b
 
     def sub(self, a: float, b: float) -> float:
