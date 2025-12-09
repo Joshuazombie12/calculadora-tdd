@@ -35,3 +35,4 @@ def test_exp_small_positive():
 def test_exp_negative():
     assert calc.exp(-1.0) == pytest.approx(math.exp(-1.0), abs=1e-3)
 
+
