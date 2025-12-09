@@ -41,4 +41,3 @@ class Calculator:
                 break
         return float(total)
 
-
